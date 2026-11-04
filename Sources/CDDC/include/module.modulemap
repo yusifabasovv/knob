@@ -1,0 +1,4 @@
+module CDDC {
+    header "ddc.h"
+    export *
+}
